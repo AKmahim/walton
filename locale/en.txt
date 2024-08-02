@@ -1,0 +1,34 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 3
+
+## Media
+
+### Title
+map_2DB89EB9_260F_BB25_41AB_FE68AA79FB65.label = Plan
+panorama_81D041E6_880B_48AD_41DE_B967D6B3DABF.label = 2
+panorama_81DC7780_880B_C964_41D6_3E7705D9BD40.label = 12
+panorama_81DC8260_880B_4BA5_41DA_FD0774DD175C.label = 5
+panorama_81DC8D35_880B_39AF_41D7_04B051E00894.label = 10
+panorama_81DCA777_880B_49AB_41D6_6D390F7246A1.label = 6
+panorama_81DCED68_880B_79A5_41D3_CB65AF97F725.label = 4
+panorama_81DD56FC_880B_489C_41B5_4DCC6E8C58A8.label = 3
+panorama_81DD72B9_880B_48A7_41D1_7F5694D0FD21.label = 8
+panorama_81DD782D_880B_47BF_4190_B279B9432F9F.label = 9
+panorama_81DD7CFA_880B_58A5_41DB_3A812927C450.label = 7
+panorama_81DDB297_880B_CB6B_41DA_62B5A8DA5DD5.label = 11
+panorama_81DDCD13_880B_D964_41C2_D46B6A3BA549.label = 13
+panorama_83B3CBB0_880B_58A4_41DE_EEEF5B8AE01D.label = 1
+video_9BFA0B32_8D49_95F1_41D6_2C13AF270C33.label = y2mate.com - Walton Prelude N50 Pro Laptop Intel Walton Computer_1080p
+
+## Action
+
+### URL
+LinkBehaviour_04216BB8_2372_EDA7_41BD_54C4E6B52254.source = https://eplaza.waltonbd.com/index.php?route=product/product&product_id=5791
+LinkBehaviour_05CE98E1_2373_2BA9_41B1_6DEE20675F84.source = https://eplaza.waltonbd.com/index.php?route=product/product&product_id=5791
+LinkBehaviour_06EB3860_2373_6AA7_41B3_DEFA94E41151.source = https://eplaza.waltonbd.com/index.php?route=product/product&product_id=5791
