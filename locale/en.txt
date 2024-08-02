@@ -24,7 +24,7 @@ panorama_81DD7CFA_880B_58A5_41DB_3A812927C450.label = 7
 panorama_81DDB297_880B_CB6B_41DA_62B5A8DA5DD5.label = 11
 panorama_81DDCD13_880B_D964_41C2_D46B6A3BA549.label = 13
 panorama_83B3CBB0_880B_58A4_41DE_EEEF5B8AE01D.label = 1
-video_9BFA0B32_8D49_95F1_41D6_2C13AF270C33.label = y2mate.com - Walton Prelude N50 Pro Laptop Intel Walton Computer_1080p
+video_1F43F678_13A3_8BF3_41A8_4B096066548C.label = 1y2mate.com - Walton Prelude N50 Pro Laptop Intel Walton Computer_1080p
 
 ## Action
 
